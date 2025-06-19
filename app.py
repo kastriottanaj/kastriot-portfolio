@@ -6,7 +6,7 @@ import ssl
 
 st.set_page_config(page_title="Kastriot Tanaj - Profile", layout="centered")
 st.title("👨‍💻 Kastriot Tanaj")
-st.subheader("SEO Specialist | Marketing Enthuasist | Python Developer")
+st.subheader("SEO Specialist | Marketing Enthusiast | Python Developer")
 
 st.markdown(
     "🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kastriot-tanaj)")
