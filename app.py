@@ -9,7 +9,7 @@ st.title("👨‍💻 Kastriot Tanaj")
 st.subheader("SEO Specialist | Marketing Enthusiast | Python Developer")
 
 st.markdown(
-    "🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kastriot-tanaj)")
+    "🔗 [Connect on LinkedIn](https://www.linkedin.com/in/seo-kastriot-tanaj/)")
 
 st.header("About Me")
 st.write("Hi, hello there, I am Kastriot Tanaj with 4 years and a half experience in SEO. Worked for a swiss company 🇨🇭 as an intern after two years in that company. I got really good with SEO, then I completed a lot of training for WordPress. I got into computer science university to learn more about coding, THE REASON: because I am a person who likes to combine things and make MAGIC HAPPENS 🪄. While understanding marketing in depth I am able to build websites and rank them for you. WHAT IS THE POINT OF BUILDING WEBSITES WHILE NO ONE SEES YOUR WEBSITE. Currently learning python 🐍 in depth to create more magic between SEO, AI and Programming. Lets have a coffee ☕️ or connect on LinkedIn.  ")
