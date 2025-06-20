@@ -120,3 +120,6 @@ with st.form("contact_form"):
 
 st.markdown("---")
 st.write("Thanks for visiting! 🙏")
+
+if st.button("Hooray 🎈"):
+    st.balloons()
